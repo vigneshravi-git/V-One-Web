@@ -70,22 +70,22 @@
                     <p>We encourage you to share your ideas and improvements with us.Please see the contact information for our most requested departments below.</p>
                     <p>To allow us to more accurately examine your project and requirements, Please use the handy little form below to submit your Query. 
                     <p>Fields marked with * are mandatory.</p>
-                    <form>
+                    <form name="contact" method="post" data-netlify="true" onsubmit="submit">
                         <div class="mb-3">
                             <label for="validationCustom01" class="form-label">Name*</label>
-                            <input type="text" class="form-control" id="validationCustom01" >
+                            <input type="text" class="form-control" id="validationCustom01" name="Name" >
                           </div>
                         <div class="mb-3">
                           <label for="exampleInputEmail1" class="form-label">Email address*</label>
-                          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email" >
                         </div>
                         <div class="mb-3">
                           <label for="exampleInputPassword1" class="form-label">Contact No.*</label>
-                          <input type="number" class="form-control" id="exampleInputPassword1">
+                          <input type="number" class="form-control" id="exampleInputPassword1" name="contact">
                         </div>
                         <div class="mb-3">
                             <label for="exampleFormControlTextarea1" class="form-label">messages*</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="messages"></textarea>
                           </div>
                         <button type="submit" class="btn btn-primary">Send messages</button>
                       </form>
