@@ -1,0 +1,177 @@
+ved to new location</stEvt:parameters>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <stEvt:action>saved</stEvt:action>
+     <stEvt:changed>/</stEvt:changed>
+     <stEvt:instanceID>xmp.iid:74813190-813b-ef4d-b5f7-1b0f8e454e49</stEvt:instanceID>
+     <stEvt:softwareAgent>Adobe Photoshop Lightroom Classic 11.4.1 (Windows)</stEvt:softwareAgent>
+     <stEvt:when>2025-02-05T10:27:57+05:30</stEvt:when>
+    </rdf:li>
+   </rdf:Seq>
+  </xmpMM:History>
+  <xmpMM:InstanceID>xmp.iid:74813190-813b-ef4d-b5f7-1b0f8e454e49</xmpMM:InstanceID>
+  <xmpMM:OriginalDocumentID>77E8885A3CECA629DF6B6F93AEBD0D52</xmpMM:OriginalDocumentID>
+  <xmpMM:PreservedFileName>DSC00071.ARW</xmpMM:PreservedFileName>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:crs='http://ns.adobe.com/camera-raw-settings/1.0/'>
+  <crs:AlreadyApplied>True</crs:AlreadyApplied>
+  <crs:AutoLateralCA>0</crs:AutoLateralCA>
+  <crs:Blacks2012>0</crs:Blacks2012>
+  <crs:BlueHue>0</crs:BlueHue>
+  <crs:BlueSaturation>0</crs:BlueSaturation>
+  <crs:CameraProfile>Embedded</crs:CameraProfile>
+  <crs:CameraProfileDigest>54650A341B5B5CCAE8442D0B43A92BCE</crs:CameraProfileDigest>
+  <crs:Clarity2012>0</crs:Clarity2012>
+  <crs:ColorNoiseReduction>0</crs:ColorNoiseReduction>
+  <crs:Contrast2012>0</crs:Contrast2012>
+  <crs:ConvertToGrayscale>False</crs:ConvertToGrayscale>
+  <crs:CropAngle>0</crs:CropAngle>
+  <crs:CropBottom>1</crs:CropBottom>
+  <crs:CropConstrainToWarp>0</crs:CropConstrainToWarp>
+  <crs:CropLeft>0</crs:CropLeft>
+  <crs:CropRight>1</crs:CropRight>
+  <crs:CropTop>0</crs:CropTop>
+  <crs:DefringeGreenAmount>0</crs:DefringeGreenAmount>
+  <crs:DefringeGreenHueHi>60</crs:DefringeGreenHueHi>
+  <crs:DefringeGreenHueLo>40</crs:DefringeGreenHueLo>
+  <crs:DefringePurpleAmount>0</crs:DefringePurpleAmount>
+  <crs:DefringePurpleHueHi>70</crs:DefringePurpleHueHi>
+  <crs:DefringePurpleHueLo>30</crs:DefringePurpleHueLo>
+  <crs:Exposure2012>0.00</crs:Exposure2012>
+  <crs:GrainAmount>0</crs:GrainAmount>
+  <crs:GreenHue>0</crs:GreenHue>
+  <crs:GreenSaturation>0</crs:GreenSaturation>
+  <crs:HasCrop>False</crs:HasCrop>
+  <crs:HasSettings>True</crs:HasSettings>
+  <crs:Highlights2012>0</crs:Highlights2012>
+  <crs:HueAdjustmentAqua>0</crs:HueAdjustmentAqua>
+  <crs:HueAdjustmentBlue>0</crs:HueAdjustmentBlue>
+  <crs:HueAdjustmentGreen>0</crs:HueAdjustmentGreen>
+  <crs:HueAdjustmentMagenta>0</crs:HueAdjustmentMagenta>
+  <crs:HueAdjustmentOrange>0</crs:HueAdjustmentOrange>
+  <crs:HueAdjustmentPurple>0</crs:HueAdjustmentPurple>
+  <crs:HueAdjustmentRed>0</crs:HueAdjustmentRed>
+  <crs:HueAdjustmentYellow>0</crs:HueAdjustmentYellow>
+  <crs:IncrementalTemperature>0</crs:IncrementalTemperature>
+  <crs:IncrementalTint>0</crs:IncrementalTint>
+  <crs:LensManualDistortionAmount>0</crs:LensManualDistortionAmount>
+  <crs:LensProfileEnable>0</crs:LensProfileEnable>
+  <crs:LuminanceAdjustmentAqua>0</crs:LuminanceAdjustmentAqua>
+  <crs:LuminanceAdjustmentBlue>0</crs:LuminanceAdjustmentBlue>
+  <crs:LuminanceAdjustmentGreen>0</crs:LuminanceAdjustmentGreen>
+  <crs:LuminanceAdjustmentMagenta>0</crs:LuminanceAdjustmentMagenta>
+  <crs:LuminanceAdjustmentOrange>0</crs:LuminanceAdjustmentOrange>
+  <crs:LuminanceAdjustmentPurple>0</crs:LuminanceAdjustmentPurple>
+  <crs:LuminanceAdjustmentRed>0</crs:LuminanceAdjustmentRed>
+  <crs:LuminanceAdjustmentYellow>0</crs:LuminanceAdjustmentYellow>
+  <crs:LuminanceSmoothing>0</crs:LuminanceSmoothing>
+  <crs:ParametricDarks>0</crs:ParametricDarks>
+  <crs:ParametricHighlightSplit>75</crs:ParametricHighlightSplit>
+  <crs:ParametricHighlights>0</crs:ParametricHighlights>
+  <crs:ParametricLights>0</crs:ParametricLights>
+  <crs:ParametricMidtoneSplit>50</crs:ParametricMidtoneSplit>
+  <crs:ParametricShadowSplit>25</crs:ParametricShadowSplit>
+  <crs:ParametricShadows>0</crs:ParametricShadows>
+  <crs:PerspectiveAspect>0</crs:PerspectiveAspect>
+  <crs:PerspectiveHorizontal>0</crs:PerspectiveHorizontal>
+  <crs:PerspectiveRotate>0.0</crs:PerspectiveRotate>
+  <crs:PerspectiveScale>100</crs:PerspectiveScale>
+  <crs:PerspectiveUpright>0</crs:PerspectiveUpright>
+  <crs:PerspectiveVertical>0</crs:PerspectiveVertical>
+  <crs:PostCropVignetteAmount>0</crs:PostCropVignetteAmount>
+  <crs:ProcessVersion>11.0</crs:ProcessVersion>
+  <crs:RawFileName>DSC00071.JPG</crs:RawFileName>
+  <crs:RedHue>0</crs:RedHue>
+  <crs:RedSaturation>0</crs:RedSaturation>
+  <crs:Saturation>0</crs:Saturation>
+  <crs:SaturationAdjustmentAqua>0</crs:SaturationAdjustmentAqua>
+  <crs:SaturationAdjustmentBlue>0</crs:SaturationAdjustmentBlue>
+  <crs:SaturationAdjustmentGreen>0</crs:SaturationAdjustmentGreen>
+  <crs:SaturationAdjustmentMagenta>0</crs:SaturationAdjustmentMagenta>
+  <crs:SaturationAdjustmentOrange>0</crs:SaturationAdjustmentOrange>
+  <crs:SaturationAdjustmentPurple>0</crs:SaturationAdjustmentPurple>
+  <crs:SaturationAdjustmentRed>0</crs:SaturationAdjustmentRed>
+  <crs:SaturationAdjustmentYellow>0</crs:SaturationAdjustmentYellow>
+  <crs:ShadowTint>0</crs:ShadowTint>
+  <crs:Shadows2012>0</crs:Shadows2012>
+  <crs:Sharpness>0</crs:Sharpness>
+  <crs:SplitToningBalance>0</crs:SplitToningBalance>
+  <crs:SplitToningHighlightHue>0</crs:SplitToningHighlightHue>
+  <crs:SplitToningHighlightSaturation>0</crs:SplitToningHighlightSaturation>
+  <crs:SplitToningShadowHue>0</crs:SplitToningShadowHue>
+  <crs:SplitToningShadowSaturation>0</crs:SplitToningShadowSaturation>
+  <crs:ToneCurveName2012>Linear</crs:ToneCurveName2012>
+  <crs:ToneCurvePV2012>
+   <rdf:Seq>
+    <rdf:li>0, 0</rdf:li>
+    <rdf:li>255, 255</rdf:li>
+   </rdf:Seq>
+  </crs:ToneCurvePV2012>
+  <crs:ToneCurvePV2012Blue>
+   <rdf:Seq>
+    <rdf:li>0, 0</rdf:li>
+    <rdf:li>255, 255</rdf:li>
+   </rdf:Seq>
+  </crs:ToneCurvePV2012Blue>
+  <crs:ToneCurvePV2012Green>
+   <rdf:Seq>
+    <rdf:li>0, 0</rdf:li>
+    <rdf:li>255, 255</rdf:li>
+   </rdf:Seq>
+  </crs:ToneCurvePV2012Green>
+  <crs:ToneCurvePV2012Red>
+   <rdf:Seq>
+    <rdf:li>0, 0</rdf:li>
+    <rdf:li>255, 255</rdf:li>
+   </rdf:Seq>
+  </crs:ToneCurvePV2012Red>
+  <crs:Version>14.4.1</crs:Version>
+  <crs:Vibrance>0</crs:Vibrance>
+  <crs:VignetteAmount>0</crs:VignetteAmount>
+  <crs:WhiteBalance>As Shot</crs:WhiteBalance>
+  <crs:Whites2012>0</crs:Whites2012>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>ˇ‚XICC_PROFILE   HLino  mntrRGB XYZ Œ  	  1  acspMSFT    IEC sRGB              ˆ÷     ”-HP                                                 cprt  P   3desc  Ñ   lwtpt     bkpt     rXYZ     gXYZ  ,   bXYZ  @   dmnd  T   pdmdd  ƒ   àvued  L   Üview  ‘   $lumi  ¯   meas     $tech  0   rTRC  <  gTRC  <  bTRC  <  text    Copyright (c) 1998 Hewlett-Packard Company  desc       sRGB IEC61966-2.1           sRGB IEC61966-2.1                                                  XYZ       ÛQ    ÃXYZ                 XYZ       o¢  8ı  êXYZ       bô  ∑Ö  ⁄XYZ       $†  Ñ  ∂œdesc       IEC http://www.iec.ch           IEC http://www.iec.ch                                              desc       .IEC 61966-2.1 Default RGB colour space - sRGB           .IEC 61966-2.1 Default RGB colour space - sRGB                      desc       ,Reference Viewing Condition in IEC61966-2.1           ,Reference Viewing Condition in IEC61966-2.1                          view     §˛ _. œ ÌÃ  \û   XYZ      L	V P   WÁmeas                         è   sig     CRT curv           
+     # ( - 2 7 ; @ E J O T Y ^ c h m r w | Å Ü ã ê ï ö ü § © Æ ≤ ∑ º ¡ ∆ À – ’ € ‡ Â Î  ˆ ˚%+28>ELRY`gnu|Éãíö°©±π¡…—Ÿ·ÈÚ˙&/8AKT]gqzÑéò¢¨∂¡À’‡Îı !-8COZfr~äñ¢Æ∫«”‡Ï˘ -;HUcq~åö®∂ƒ”·˛+:IXgwÜñ¶µ≈’Âˆ'7HYj{åùØ¿—„ı+=OatÜô¨ø“Â¯2FZnÇñ™æ“Á˚		%	:	O	d	y	è	§	∫	œ	Â	˚
+
+'
+=
+T
+j
+Å
+ò
+Æ
+≈
+‹
+Û"9QiÄò∞»·˘*C\uéß¿ŸÛ&@Zté©√ﬁ¯.Idõ∂“Ó	%A^zñ≥œÏ	&Ca~õπ◊ı1Omå™…Ë&EdÑ£√„#CcÉ§≈Â'Ijã≠Œ4VxõΩ‡&Ilè≤÷˙AeâÆ“˜@eäØ’˙ Ekë∑›*Qwû≈Ï;cä≤⁄*R{£ÃıGpô√Ï@jîæÈ>iîøÍ  A l ò ƒ !!H!u!°!Œ!˚"'"U"Ç"Ø"›#
+#8#f#î#¬#$$M$|$´$⁄%	%8%h%ó%«%˜&'&W&á&∑&Ë''I'z'´'‹((?(q(¢(‘))8)k)ù)–**5*h*õ*œ++6+i+ù+—,,9,n,¢,◊--A-v-´-·..L.Ç.∑.Ó/$/Z/ë/«/˛050l0§0€11J1Ç1∫1Ú2*2c2õ2‘33F33∏3Ò4+4e4û4ÿ55M5á5¬5˝676r6Æ6È7$7`7ú7◊88P8å8»99B99º9˘:6:t:≤:Ô;-;k;™;Ë<'<e<§<„="=a=°=‡> >`>†>‡?!?a?¢?‚@#@d@¶@ÁA)AjA¨AÓB0BrBµB˜C:C}C¿DDGDäDŒEEUEöEﬁF"FgF´FG5G{G¿HHKHëH◊IIcI©IJ7J}JƒKKSKöK‚L*LrL∫MMJMìM‹N%NnN∑O OIOìO›P'PqPªQQPQõQÊR1R|R«SS_S™SˆTBTèT€U(UuU¬VV\V©V˜WDWíW‡X/X}XÀYYiY∏ZZVZ¶Zı[E[ï[Â\5\Ü\÷]']x]…^^l^Ω__a_≥``W`™`¸aOa¢aıbIbúbcCcócÎd@dîdÈe=eíeÁf=fífËg=gìgÈh?hñhÏiCiöiÒjHjüj˜kOkßkˇlWlØmm`mπnnknƒooxo—p+pÜp‡q:qïqrKr¶ss]s∏ttptÃu(uÖu·v>võv¯wVw≥xxnxÃy*yâyÁzFz•{{c{¬|!|Å|·}A}°~~b~¬#ÑÂÄGÄ®Å
+ÅkÅÕÇ0ÇíÇÙÉWÉ∫ÑÑÄÑ„ÖGÖ´ÜÜrÜ◊á;áüààiàŒâ3âôâ˛ädä ã0ãñã¸åcå ç1çòçˇéféŒè6èûêênê÷ë?ë®íízí„ìMì∂î îäîÙï_ï…ñ4ñüó
+óuó‡òLò∏ô$ôêô¸öhö’õBõØúúâú˜ùdù“û@ûÆüüãü˙†i†ÿ°G°∂¢&¢ñ££v£Ê§V§«•8•©¶¶ã¶˝ßnß‡®R®ƒ©7©©™™è´
